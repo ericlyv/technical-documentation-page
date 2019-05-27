@@ -6,3 +6,6 @@ FCC Project #4
  - Build the skeleton of the page with the needed HTML elements from the user stories
  - Added content
  - Choose the google fonts and colors needed for project
+ - Added styles
+ - COMPLETED Project
+ 

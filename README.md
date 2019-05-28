@@ -9,3 +9,8 @@ FCC Project #4
  - Added styles
  - COMPLETED Project
  
+28 May 2019:
+ - Removed br tags within paragraphs and used p tags instead
+ - Added margin within to p tags
+ - Removed bottom margin for h2 elements
+ - Conclusion: easier to style the p tags than using br tags + code is tidier

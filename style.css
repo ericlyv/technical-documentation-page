@@ -65,7 +65,6 @@ section{
 
 section h2{
 	font-size: 1.65em;
-	margin-bottom: 10px;
 }
 
 section ul{
@@ -75,6 +74,10 @@ section ul{
 
 section ul li{
 	margin-bottom: 10px;
+}
+
+section p{
+	margin: 1.25em 0;
 }
 
 .code{
@@ -127,7 +130,6 @@ footer{
 	}
 	section h2{
 		font-size: 1.5em;
-		margin-bottom: 5px;
 	}
 	section ul{
 		padding-left: 30px;
